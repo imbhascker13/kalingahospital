@@ -1,4 +1,4 @@
- tomcat:9.0
+ tomcat:9
 
 RUN echo 'Deploying War on Server'
 
